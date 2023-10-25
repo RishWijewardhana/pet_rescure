@@ -4,6 +4,7 @@ $username = "root";
 $password = "";
 $dbname = "petrescue";
 $tablenames = array("admins", "users", "pets");
+//polo
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password);
