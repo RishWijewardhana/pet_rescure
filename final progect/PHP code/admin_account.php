@@ -45,7 +45,7 @@ if ($result) {
 
 echo "<br />";
 //pet data
-echo "prt data"."<br />";
+echo "pet data"."<br />";
 $sql = "SELECT * FROM pets";
 
 $result = mysqli_query($conn, $sql);
