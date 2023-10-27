@@ -43,7 +43,7 @@ $table_result = mysqli_fetch_assoc($result);
 echo print_r($table_result, true)."<br /><br />";
 
 //pet data
-echo "prt data"."<br />";
+echo "pet data"."<br />";
 $sql = "SELECT * FROM pets WHERE user_id = '$id'";
 
 $result = mysqli_query($conn, $sql);
