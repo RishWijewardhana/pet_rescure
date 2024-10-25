@@ -2,7 +2,7 @@ MediCare
 MediCare is an innovative mobile application designed to connect patients and doctors for online channelling and real-time monitoring of patient health data. This app allows patients to schedule appointments and connect with devices that track patient data.
 Features
   •	Online Doctor Channelling: Schedule and manage virtual appointments with doctors.
-  •	Real-Time Patient Monitoring: Connects with medical devices to track and manage patient health data.
+  •	Real-Time Patient Monitoring: Connects with medical devices to track and manage patient health data. 
   •	Secure Data Handling: Encrypts and securely stores sensitive medical information.
   •	Doctor Dashboard: Easy interface for doctors to manage appointments and patient records.
   •	Patient Health History: Patients can view and share their medical history with doctors.
